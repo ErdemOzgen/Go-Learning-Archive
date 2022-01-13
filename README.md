@@ -2,6 +2,9 @@
 
 
 ## This repository contains different materials for learning and improving Go skills.
+<p align="center">
+  <img src="img/gopher.png" />
+</p>
 
 # List of materials
 
