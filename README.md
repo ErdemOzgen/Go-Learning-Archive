@@ -3,7 +3,7 @@
 
 ## This repository contains different materials for learning and improving Go skills.
 <p align="center">
-  <img src="img/gopher.png" />
+  <img src="img/gopher.png" width="500" height="600"/>
 </p>
 
 # List of materials
