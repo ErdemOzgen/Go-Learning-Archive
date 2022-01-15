@@ -12,6 +12,7 @@
 2. [Learn Go by Inancgumus](https://github.com/inancgumus/learngo)
 3. [Golang Tips](https://go101.org/article/tips.html)
 4. [Go Optimizations 101](https://go101.org/optimizations/101.html)
+5. [100 Go Mistakes](https://github.com/teivah/100-go-mistakes)
 
 ` You can follow with the same sequence...`
 
