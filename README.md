@@ -13,6 +13,7 @@
 3. [Golang Tips](https://go101.org/article/tips.html)
 4. [Go Optimizations 101](https://go101.org/optimizations/101.html)
 5. [100 Go Mistakes](https://github.com/teivah/100-go-mistakes)
+6. [Go Generics](https://github.com/akutz/go-generics-the-hard-way)
 
 ` You can follow with the same sequence...`
 
