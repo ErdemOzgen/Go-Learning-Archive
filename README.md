@@ -18,6 +18,25 @@
 ` You can follow with the same sequence...`
 
 ---
+# Todo List
+
+- [x] Go By Example Source code
+- [x] Learn Go By Inancgumus
+- [ ] Golang Tips and tricks
+- [ ] 100 Golang Mistakes
+- [ ] Go generics
+- [ ] Blackhat Go
+- [ ] Learning Go: An Idiomatic Approach to Real-World Go Programming
+- [ ] Mastering Go
+- [ ] Hands-On Software Engineering with Golang
+- [ ] Go in Action
+- [ ] Distributed Services with Go
+- [ ] Build Systems With Go: Everything a Gopher Must Knowo
+- [ ] Network Programming with Go
+- [ ] Concurrency in Go
+---
+
+
 
 Go source codes from book we have used:
 
