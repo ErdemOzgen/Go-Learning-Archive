@@ -15,7 +15,7 @@
 5. [100 Go Mistakes](https://github.com/teivah/100-go-mistakes)
 6. [Go Generics](https://github.com/akutz/go-generics-the-hard-way)
 
-` You can follow with the same sequence...`
+` This repo has not finished yet. It needs time and help...`
 
 ---
 # Todo List
