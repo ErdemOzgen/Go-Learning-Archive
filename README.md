@@ -34,6 +34,7 @@
 - [ ] Build Systems With Go: Everything a Gopher Must Knowo
 - [ ] Network Programming with Go
 - [ ] Concurrency in Go
+- [ ] Go Cookbook
 ---
 
 
