@@ -1,5 +1,6 @@
 package main
 
+//https://go.dev/blog/slices-intro
 import "fmt"
 
 func main() {
