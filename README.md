@@ -302,4 +302,86 @@ Understand Kubernetes and other orchestration systems deeply by building your ow
 Orchestration systems like Kubernetes coordinate other software subsystems and services to create a complete organized system. Although orchestration tools have a reputation for complexity, they’re designed around few important patterns that apply across many aspects of software development. Build an Orchestrator in Go reveals the inner workings of orchestration frameworks by guiding you as you design and implement your own using the Go SDK. As you create your own orchestration framework, you’ll improve your understanding of Kubernetes and its role in distributed system design. You’ll also build the skills required to design custom orchestration solutions for those times when an out-of-the-box solution isn’t a good fit. 
 
 
+**Web Development**
+----
+### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
+
+A good resource for start Building Web Apps with Go. Free to [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/).
+
+### [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
+
+Another awesome book for learning Web Development in Golang. Free to [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+
+### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
+
+<img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
+
+This book was written to teach how to develop web applications in Go for people who know a bit of Go and have basic information about web applications in general. We (you) will build a webapp without using a third party framework and using as few external libraries as possible. The advantage is that you'll learn a lot when you code without a framework.
+
+
+### [Go Web Programming](http://www.manning.com/chang/)
+
+<img src="https://images.manning.com/360/480/resize/book/9/908c77b-4a21-488b-b992-cf2ddeb678f0/Chang-GWP-HI.png" width="120px"/>
+
+Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
+
+### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796)
+
+<a href="https://www.informit.com/store/cloud-native-go-building-web-applications-and-microservices-9780672337796"><img src="https://images-na.ssl-images-amazon.com/images/I/51oy5Nd9BoL._SX384_BO1,204,203,200_.jpg" width="120px"/></a>
+
+Today, companies and developers need to respond to changing markets at breakneck speeds. Organizations that aren't built on highly-available, rapidly-evolving software are going the way of the dinosaurs. Cloud Native Go brings together the knowledge developers need to build massive-scale cloud applications that meet the insatiable demands of today's customers and markets.
+
+### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
+
+Web Development with Go was written to teach both beginners and experts how to create and deploy a real web application. You won't be building a boilerplate TODO list, but will instead be creating and deploying a production ready photo gallery application, similar to Pixieset, from scratch. The book assumes no previous web development experience and covers everything you need to know to successfully build your own web application.
+
+### [Go: Building Web Applications](https://amzn.com/B01LD8K5C0)
+
+<a href="https://amzn.com/B01LD8K5C0"><img src="https://images-na.ssl-images-amazon.com/images/I/51vKBWRztbL.jpg" width="120px"/></a>
+
+This course is an invaluable resource to help you understand Go's powerful features to build simple, reliable, secure, and efficient web applications.
+
+### [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
+
+<img src="https://static.packt-cdn.com/products/9781786468666/cover/smaller" width="120px"/>
+
+Whether you are planning a new application or working in an existing monolith, this book will explain and illustrate with practical examples how teams of all sizes can start solving problems with microservices. It will help you understand Docker and Docker-Compose and how it can be used to isolate microservice dependencies and build environments. We finish off by showing you various techniques to monitor, test, and secure your microservices.
+
+
+### [12 Factor Applications with Docker and Go](https://leanpub.com/12fa-docker-golang)
+
+<a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
+
+A book filled with examples on how to use Docker and Go to create the ultimate 12 Factor applications. It goes over individual steps of [The Twelve-Factor App](12factor.net) guidelines and how to implement them with Go and Docker.
+
+### [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
+
+<img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
+
+This is the 3rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities.
+
+### [Learn Data Structures and Algorithms with Golang](https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501)
+
+<img src="https://static.packt-cdn.com/products/9781789618501/cover/smaller" width="120px"/>
+
+The book begins with an introduction to Go data structures and algorithms. You'll learn how to store data using linked lists, arrays, stacks, and queues. Moving ahead, you'll discover how to implement sorting and searching algorithms, followed by binary search trees. This book will also help you improve the performance of your applications by stringing data types and implementing hash structures in algorithm design. Finally, you'll be able to apply traditional data structures to solve real-world problems.
+By the end of the book, you'll have become adept at implementing classic data structures and algorithms in Go, propelling you to become a confident Go programmer.
+
+Resources
+====
+
+### [Golang tutorial resources](https://webia.io/topic/golang-learning-resources)
+### [A tour of Go](https://tour.golang.org/)
+### [Video: Learn Go Syntax in one video](http://www.youtube.com/watch?v=CF9S4QZuV30)
+### [Tutorials: Go by Example](https://gobyexample.com/)
+### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
+### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
+### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
+### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
+### [Course: Understand Go's In-Depth Mechanics](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37)
+### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
+### [Course: Web Development with Google’s Go Programming Language](https://www.udemy.com/course/go-programming-language)
+### [Golangbot.com Articles](https://golangbot.com/)
+
+
 
