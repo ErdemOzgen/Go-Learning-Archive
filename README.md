@@ -52,6 +52,7 @@ Doesn't seem enough? Then choose an item from our issues and start helping!!
 <img src="https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png" width="120px"/>
 
 This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
+[Source code of Book](https://github.com/GoBootcamp/book)
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
 
