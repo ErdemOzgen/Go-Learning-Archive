@@ -53,6 +53,18 @@ Doesn't seem enough? Then choose an item from our issues and start helping!!
 
 This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
 [Source code of Book](https://github.com/GoBootcamp/book)
+### Chapters of Book
+* [Chapter2](https://www.golangbootcamp.com/book/basics)
+* [Chapter3]
+* [Chapter4]
+* [Chapter5]
+* [Chapter6]
+* [Chapter7]
+* [Chapter8]
+* [Chapter9]
+* [Chapter10]
+* [Chapter11]
+* [Chapter12]
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
 
