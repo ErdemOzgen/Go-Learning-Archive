@@ -273,3 +273,33 @@ With this book, you will learn how to write more idiomatic and performant code w
 
 This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
 
+### [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+
+<img src="https://images.manning.com/360/480/resize/book/d/fc0c3c2-6ae1-4722-b867-a29dc6e3ed70/Harsanyi-MEAP-HI.png" width="120px"/>
+
+100 Go Mistakes and How to Avoid Them puts a spotlight on common errors in Go code you might not even know you’re making. You’ll explore key areas of the language such as concurrency, testing, data structures, and more—and learn how to avoid and fix mistakes in your own projects.
+
+### [Effective Go](https://www.manning.com/books/effective-go)
+
+<img src="https://images.manning.com/360/480/resize/book/d/af5a665-64b2-45cc-9543-d072437c27c2/Gumus-MEAP-HI.png" width="120px"/>
+
+Effective Go is a practical guide to writing high-quality code that’s easy to test and maintain. The book is full of best practices to adopt and anti-patterns to dodge. It explores what makes Go so dramatically different from other languages, and how you can still leverage your existing skills into writing excellent Go code. Aimed at Go beginners looking to graduate to serious Go development, you’ll write and test command line applications, web API clients and servers, concurrent programs, and more.
+
+### [Cloud Native Go - Building Reliable Services in Unreliable Environments](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
+
+<img src="https://learning.oreilly.com/library/cover/9781492076322/120w/" width="120px"/>
+
+What do Docker, Kubernetes, and Prometheus have in common? All of these cloud native technologies are written in the Go programming language.
+This practical book shows you how to use Go's strengths to develop cloud native services that are scalable and resilient, even in an unpredictable environment.
+You'll explore the composition and construction of these applications, from lower-level features of Go to mid-level design patterns to high-level architectural considerations.
+
+### [Build an Orchestrator in Go](https://www.manning.com/books/build-an-orchestrator-in-go)
+
+<img src="https://images.manning.com/360/480/resize/book/d/d1322d1-6dff-4475-9f70-fba20aef2281/Boring-OS-MEAP-HI.png" width="120px"/>
+
+Understand Kubernetes and other orchestration systems deeply by building your own using Go and the Docker API. 
+
+Orchestration systems like Kubernetes coordinate other software subsystems and services to create a complete organized system. Although orchestration tools have a reputation for complexity, they’re designed around few important patterns that apply across many aspects of software development. Build an Orchestrator in Go reveals the inner workings of orchestration frameworks by guiding you as you design and implement your own using the Go SDK. As you create your own orchestration framework, you’ll improve your understanding of Kubernetes and its role in distributed system design. You’ll also build the skills required to design custom orchestration solutions for those times when an out-of-the-box solution isn’t a good fit. 
+
+
+
