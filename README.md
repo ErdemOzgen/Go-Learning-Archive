@@ -6,6 +6,35 @@
   <img src="img/gopher.png" width="500" height="600"/>
 </p>
 
+# What does this repo include ?
+
+- Examples based on reference books.
+- Detailed explanations for source codes.
+- Challenge projects.
+
+Doesn't seem enough? Then choose an item from our issues and start helping!!
+
+
+---
+# Todo List
+
+- [x] Go By Example Source code
+- [x] Learn Go By Inancgumus
+- [ ] Golang Tips and tricks
+- [ ] 100 Golang Mistakes
+- [ ] Go generics
+- [ ] Blackhat Go
+- [ ] Learning Go: An Idiomatic Approach to Real-World Go Programming
+- [ ] Mastering Go
+- [ ] Hands-On Software Engineering with Golang
+- [ ] Go in Action
+- [ ] Distributed Services with Go
+- [ ] Build Systems With Go: Everything a Gopher Must Knowo
+- [ ] Network Programming with Go
+- [ ] Concurrency in Go
+- [ ] Go Cookbook
+---
+
 # List of materials
 
 1. [Go By Examples](https://gobyexample.com/)
@@ -244,36 +273,3 @@ With this book, you will learn how to write more idiomatic and performant code w
 
 This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
 
----
-# Todo List
-
-- [x] Go By Example Source code
-- [x] Learn Go By Inancgumus
-- [ ] Golang Tips and tricks
-- [ ] 100 Golang Mistakes
-- [ ] Go generics
-- [ ] Blackhat Go
-- [ ] Learning Go: An Idiomatic Approach to Real-World Go Programming
-- [ ] Mastering Go
-- [ ] Hands-On Software Engineering with Golang
-- [ ] Go in Action
-- [ ] Distributed Services with Go
-- [ ] Build Systems With Go: Everything a Gopher Must Knowo
-- [ ] Network Programming with Go
-- [ ] Concurrency in Go
-- [ ] Go Cookbook
----
-
-
-
-Go source codes from book we have used:
-
-# What does this repo include ?
-
-- Examples based on reference books.
-- Detailed explanations for source codes.
-- Challenge projects.
-
-Doesn't seem enough? Then choose an item from our issues and start helping!!
-
-`git clone --recursive https://github.com/ErdemOzgen/Go-Learning-Archive.git`
