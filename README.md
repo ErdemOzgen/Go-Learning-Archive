@@ -56,7 +56,7 @@ This companion book contains material initially written specifically for this ev
 ### Chapters of Book
 * [Chapter2](https://www.golangbootcamp.com/book/basics)
 * [Chapter3](https://www.golangbootcamp.com/book/types)
-* [Chapter4]
+* [Chapter4](https://www.golangbootcamp.com/book/collection_types)
 * [Chapter5]
 * [Chapter6]
 * [Chapter7]
