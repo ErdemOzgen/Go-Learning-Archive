@@ -55,7 +55,7 @@ This companion book contains material initially written specifically for this ev
 [Source code of Book](https://github.com/GoBootcamp/book)
 ### Chapters of Book
 * [Chapter2](https://www.golangbootcamp.com/book/basics)
-* [Chapter3]
+* [Chapter3](https://www.golangbootcamp.com/book/types)
 * [Chapter4]
 * [Chapter5]
 * [Chapter6]
