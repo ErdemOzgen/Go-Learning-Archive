@@ -155,6 +155,95 @@ This book will take you through the history of concurrency, how Go utilizes it, 
 
 Go in Practice guides you through dozens of real-world techniques in key areas like package management, microservice communication, and more. Following a cookbook-style Problem/Solution/Discussion format, this practical handbook builds on the foundational concepts of the Go language and introduces specific strategies you can use in your day-to-day applications. You'll learn techniques for building web services, using Go in the cloud, testing and debugging, routing, network applications, and much more.
 
+### [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
+ 
+<img src="https://static.packt-cdn.com/products/9781786466204/cover/smaller" width="120px"/>
+
+Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
+
+### [Black Hat Go](https://www.nostarch.com/blackhatgo)
+
+[<img src="https://nostarch.com/sites/default/files/styles/uc_product/public/BHG_frontcover_REV_HM.png?itok=ns0fk-16" width="120px"/>](https://www.nostarch.com/blackhatgo)
+
+In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
+
+### [Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
+
+[<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
+
+Concurrency can be notoriously difficult to get right, but fortunately, the Go open source programming language makes working with concurrency tractable and even easy. If you’re a developer familiar with Go, this practical book demonstrates best practices and patterns to help you incorporate concurrency into your systems.
+
+### [Hands-On Dependency Injection in Go](https://amzn.to/2Q6dLQC)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51%2B8EdihuKL._SX404_BO1,204,203,200_.jpg" width="120px"/>
+
+Hands-On Dependency Injection in Go takes you on a journey, teaching you about refactoring existing code to adopt dependency injection (DI) using various methods available in Go.
+
+Of the six methods introduced in this book, some are conventional, such as constructor or method injection, and some unconventional, such as just-in-time or config injection. Each method is explained in detail, focusing on their strengths and weaknesses, and is followed with a step-by-step example of how to apply it. With plenty of examples, you will learn how to leverage DI to transform code into something simple and flexible.
+
+Hands-On Dependency Injection in Go takes a pragmatic approach and focuses heavily on the code, user experience, and how to achieve long-term benefits through incremental changes.
+
+### [Hands-On Software Engineering with Golang](https://www.packtpub.com/gb/programming/hands-on-software-engineering-with-golang)
+
+<img src="https://static.packt-cdn.com/products/9781838554491/cover/smaller" width="120px"/>
+
+This Golang book distills industry best practices for writing lean Go code that is easy to test and maintain, and helps you to explore its practical implementation by creating a multi-tier application called Links ‘R’ Us from scratch. You’ll be guided through all the steps involved in designing, implementing, testing, deploying, and scaling an application. Starting with a monolithic architecture, you’ll iteratively transform the project into a service-oriented architecture (SOA) that supports the efficient out-of-core processing of large link graphs. 
+
+You’ll learn about various cutting-edge and advanced software engineering techniques such as building extensible data processing pipelines, designing APIs using gRPC, and running distributed graph processing algorithms at scale.  Finally, you’ll learn how to compile and package your Go services using Docker and automate their deployment to a Kubernetes cluster.
+
+### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) **Free**
+
+<img src="https://raw.githubusercontent.com/blasrodri/spaceship-go/master/src/img/cover.svg" width="120px"/>
+
+Spaceship Go is a journey to Go's Standard Library. Several key packages are explored in order to understand
+why they are useful, and also how they are implemented under the hood. It serves as a reference of some key
+available tools and primitives offered by the language, which can be very helpful to write performant and idiomatic
+code.
+
+### [Security with Go](https://www.packtpub.com/product/security-with-go/9781788627917)
+
+<img src="https://static.packt-cdn.com/products/9781788627917/cover/smaller" width="120px"/>
+
+Security with Go is the first Golang security book, and it is useful for both blue team and red team applications. With this book, you will learn how to write secure software, monitor your systems, secure your data, attack systems, and extract information.
+
+Defensive topics include cryptography, forensics, packet capturing, and building secure web applications.
+
+Offensive topics include brute force, port scanning, packet injection, web scraping, social engineering, and post exploitation techniques.
+
+### [Writing An Interpreter In Go](https://interpreterbook.com/)
+
+<img src="https://interpreterbook.com/img/cover-cb2da3d1.png" width="120px"/>
+
+In this book we will create a programming language together.
+
+We'll start with 0 lines of code and end up with a fully working interpreter for the Monkey* programming language.
+
+Step by step. From tokens to output. All code shown and included. Fully tested.
+
+### [Writing A Compiler In Go](https://compilerbook.com/)
+
+<img src="https://compilerbook.com/images/cover-514e0936.png" width="120px"/>
+
+This is the sequel to Writing An Interpreter In Go.
+
+We're picking up right where we left off and write a compiler and a virtual machine for Monkey.
+
+Runnable and tested code front and center, built from the ground up, step by step — just like before.
+
+But this time, we're going to define bytecode, compile Monkey and execute it in our very own virtual machine.
+
+It's the next step in Monkey's evolution.
+
+### [Ultimate Go Notebook](https://courses.ardanlabs.com/courses/ultimate-go-notebook)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/411o0BkQoQL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="120px"/>
+
+The Ultimate Go Notebook is the official companion book for the Ardan Labs Ultimate Go class. 
+
+With this book, you will learn how to write more idiomatic and performant code with a focus on micro-level engineering decisions. 
+
+This notebook has been designed to provide a reference to everything mentioned in class, as if they were your own personal notes.
+
 ---
 # Todo List
 
