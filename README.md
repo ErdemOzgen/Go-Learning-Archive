@@ -128,6 +128,33 @@ A short guide to Test-driven development in golang. free to [read online](https:
 ### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
 
 The main goal of this book is to help developers avoid common mistakes while at the same time, learning a new programming language through a "hands-on approach". This book provides a good level of detail on "how to do it securely" showing what kind of security problems could arise during development.
+
+### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
+
+*Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
+It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
+
+The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
+
+### [Network Programming with Go](https://nostarch.com/networkprogrammingwithgo)
+
+<img src="https://images3.penguinrandomhouse.com/cover/9781718500884" width="120px"/>
+
+Network Programming with Go will help you leverage Go to write secure, readable, production-ready network code. Network Programming with Go is all you'll need to take advantage of Go's built-in concurrency, rapid compiling, and rich standard library.
+
+### [Mastering Concurrency in Go](https://www.amazon.com/Mastering-Concurrency-Go-Nathan-Kozyra/dp/1783983485)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51ZTqE7xACL._SX404_BO1,204,203,200_.jpg" width="120px"/>
+
+This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
+
+### [Go in Practice](http://www.manning.com/butcher/)
+
+<img src="https://images.manning.com/360/480/resize/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png" width="120px"/>
+
+Go in Practice guides you through dozens of real-world techniques in key areas like package management, microservice communication, and more. Following a cookbook-style Problem/Solution/Discussion format, this practical handbook builds on the foundational concepts of the Go language and introduces specific strategies you can use in your day-to-day applications. You'll learn techniques for building web services, using Go in the cloud, testing and debugging, routing, network applications, and much more.
+
 ---
 # Todo List
 
