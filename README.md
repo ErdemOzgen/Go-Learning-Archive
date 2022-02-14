@@ -54,10 +54,11 @@ Doesn't seem enough? Then choose an item from our issues and start helping!!
 This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
 [Source code of Book](https://github.com/GoBootcamp/book)
 ### Chapters of Book
-* [Chapter2](https://www.golangbootcamp.com/book/basics)
-* [Chapter3](https://www.golangbootcamp.com/book/types)
-* [Chapter4](https://www.golangbootcamp.com/book/collection_types)
-* [Chapter5](https://www.golangbootcamp.com/book/control_flow)
+* [Chapter1 Intro](https://www.golangbootcamp.com/book/intro)
+* [Chapter2 The Basics](https://www.golangbootcamp.com/book/basics)
+* [Chapter3 Types](https://www.golangbootcamp.com/book/types)
+* [Chapter4 Coleections Types](https://www.golangbootcamp.com/book/collection_types)
+* [Chapter5 Control Flow](https://www.golangbootcamp.com/book/control_flow)
 * [Chapter6]
 * [Chapter7]
 * [Chapter8]
