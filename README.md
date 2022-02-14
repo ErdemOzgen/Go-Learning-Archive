@@ -59,7 +59,7 @@ This companion book contains material initially written specifically for this ev
 * [Chapter3 Types](https://www.golangbootcamp.com/book/types)
 * [Chapter4 Coleections Types](https://www.golangbootcamp.com/book/collection_types)
 * [Chapter5 Control Flow](https://www.golangbootcamp.com/book/control_flow)
-* [Chapter6]
+* [Chapter6 Methods](https://www.golangbootcamp.com/book/methods)
 * [Chapter7]
 * [Chapter8]
 * [Chapter9]
