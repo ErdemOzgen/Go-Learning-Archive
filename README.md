@@ -61,7 +61,7 @@ This companion book contains material initially written specifically for this ev
 * [Chapter5 Control Flow](https://www.golangbootcamp.com/book/control_flow)
 * [Chapter6 Methods](https://www.golangbootcamp.com/book/methods)
 * [Chapter7 Interfaces](https://www.golangbootcamp.com/book/interfaces)
-* [Chapter8]
+* [Chapter8 Concurrency](https://www.golangbootcamp.com/book/concurrency)
 * [Chapter9]
 * [Chapter10]
 * [Chapter11]
