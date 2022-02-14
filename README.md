@@ -62,10 +62,10 @@ This companion book contains material initially written specifically for this ev
 * [Chapter6 Methods](https://www.golangbootcamp.com/book/methods)
 * [Chapter7 Interfaces](https://www.golangbootcamp.com/book/interfaces)
 * [Chapter8 Concurrency](https://www.golangbootcamp.com/book/concurrency)
-* [Chapter9]
-* [Chapter10]
-* [Chapter11]
-* [Chapter12]
+* [Chapter9 Get Setup](https://www.golangbootcamp.com/book/get_setup)
+* [Chapter10](https://www.golangbootcamp.com/book/get_your_feet_wet)
+* [Chapter11 Tips and tricks](https://www.golangbootcamp.com/book/tricks_and_tips)
+
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
 
