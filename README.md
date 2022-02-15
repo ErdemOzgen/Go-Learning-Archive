@@ -78,13 +78,13 @@ A online book to start learning Golang. It features numerous exercises (and answ
 <img src="https://raw.githubusercontent.com/quii/learn-go-with-tests/master/epub-cover-small.png" width="120px"/>
 
 Learn Go guided by tests. Write a test, learn a new Go language feature to make it pass, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it.
-* [Chapter 1](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/install-go)
-* [Chapter 2](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world)
-* [Chapter 3](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/integers)
-* [Chapter 4](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)
-* [Chapter 5](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
-* [Chapter 6](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
-* [Chapter 7]()
+* [Chapter 1 Install Go](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/install-go)
+* [Chapter 2 Hello](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world)
+* [Chapter 3 Integers](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/integers)
+* [Chapter 4 Iteration](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)
+* [Chapter 5 Array and Slice](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
+* [Chapter 6 Structs Method and Interface](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
+* [Chapter 7 Pointer and Error](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
 * [Chapter 8]()
 * [Chapter 9]()
 * [Chapter 10]()
