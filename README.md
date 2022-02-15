@@ -85,8 +85,8 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 * [Chapter 5 Array and Slice](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
 * [Chapter 6 Structs Method and Interface](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
 * [Chapter 7 Pointer and Error](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
-* [Chapter 8]()
-* [Chapter 9]()
+* [Chapter 8 Maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
+* [Chapter 9 Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
 * [Chapter 10]()
 * [Chapter 11]()
 
