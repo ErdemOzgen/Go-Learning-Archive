@@ -80,6 +80,15 @@ A online book to start learning Golang. It features numerous exercises (and answ
 Learn Go guided by tests. Write a test, learn a new Go language feature to make it pass, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it.
 * [Chapter 1](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/install-go)
 * [Chapter 2](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world)
+* [Chapter 3](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/integers)
+* [Chapter 4](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)
+* [Chapter 5](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
+* [Chapter 6](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
+* [Chapter 7]()
+* [Chapter 8]()
+* [Chapter 9]()
+* [Chapter 10]()
+* [Chapter 11]()
 
 
 ### [Go 101](https://go101.org/article/101.html) *Free*
