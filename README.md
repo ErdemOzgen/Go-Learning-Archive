@@ -88,7 +88,8 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 * [Chapter 8 Maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
 * [Chapter 9 Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
 * [Chapter 10 Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
-* [Chapter 11]()
+* [Chapter 11 Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
+* [Chapter 12]()
 
 
 ### [Go 101](https://go101.org/article/101.html) *Free*
