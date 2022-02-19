@@ -87,7 +87,7 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 * [Chapter 7 Pointer and Error](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
 * [Chapter 8 Maps](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
 * [Chapter 9 Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
-* [Chapter 10]()
+* [Chapter 10 Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking)
 * [Chapter 11]()
 
 
