@@ -92,7 +92,7 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 * [Chapter 12 Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select)
 * [What is Reflection ?](https://golangbot.com/reflection/)
 * [Chapter 13 Reflection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
-* [Chapter 14]
+* [Chapter 14 Sync](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync#copying-mutexes)
 * [Chapter 15]
 
 
