@@ -101,6 +101,8 @@ Learn Go guided by tests. Write a test, learn a new Go language feature to make 
 <img src="https://go101.org/article/res/101-front-cover-1400x.jpg" width="120px"/>
 
 Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime related things (Go 1.17-pre ready) and tries to help gophers gain a deep and thorough understanding of Go. This book also collects many details of Go and in Go programming. It is expected that this book is helpful for both beginner and experienced Go programmers.
+### Notes About Go 101
+* [go vet](https://siderlabs.com/blog/lets-use-go-vet-the-standard-tool-for-analyzing-go-s-source-code-59435ea71059/)
 
 ### [Practical Go Lessons](https://www.practical-go-lessons.com/) *Free*
 
