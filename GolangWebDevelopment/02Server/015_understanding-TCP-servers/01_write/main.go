@@ -24,6 +24,7 @@ func main() {
 		io.WriteString(conn, "\nHello from TCP server\n")
 		fmt.Fprintln(conn, "How is your day?")
 		fmt.Fprintf(conn, "%v", "Well, I hope!")
+		// run command in your terminal : telnet localhost 8080
 
 		conn.Close()
 	}
