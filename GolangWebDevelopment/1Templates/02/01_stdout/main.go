@@ -1,10 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func main() {
-	name := "Erdem Ozgen"
-
+// TemplateWithStdout function takes strting , stdout template and returns it
+func TemplateWithStdout(name string) string {
 	tpl := `
 	<!DOCTYPE html>
 	<html lang="en">
@@ -18,4 +19,10 @@ func main() {
 	</html>
 	`
 	fmt.Println(tpl)
+	return tpl
+}
+func main() {
+	name := "Erdem Ozgen"
+	TemplateWithStdout(name)
+
 }
