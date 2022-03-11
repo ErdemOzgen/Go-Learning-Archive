@@ -38,5 +38,5 @@ func main() {
 
 /*
 at the terminal:
-go run main.go Todd
+go run main.go Erdem
 */
