@@ -26,6 +26,7 @@ func main() {
 
 func handle(conn net.Conn) {
 	scanner := bufio.NewScanner(conn)
+	//https://yourbasic.org/golang/io-reader-interface-explained/
 	for scanner.Scan() {
 		ln := scanner.Text()
 		fmt.Println(ln)
