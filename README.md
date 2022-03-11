@@ -29,7 +29,7 @@ Doesn't seem enough? Then choose an item from our issues and start helping!!
 - [ ] Hands-On Software Engineering with Golang
 - [ ] Go in Action
 - [ ] Distributed Services with Go
-- [ ] Build Systems With Go: Everything a Gopher Must Knowo
+- [ ] Build Systems With Go: Everything a Gopher Must Know
 - [ ] Network Programming with Go
 - [ ] Concurrency in Go
 - [ ] Go Cookbook
