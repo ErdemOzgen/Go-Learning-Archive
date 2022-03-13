@@ -21,3 +21,5 @@ func main() {
 
 	fmt.Println(string(bs))
 }
+
+// run go main in 01_write for server and this code for client
