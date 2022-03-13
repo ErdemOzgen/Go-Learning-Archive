@@ -20,9 +20,11 @@ func (c hotcat) ServeHTTP(res http.ResponseWriter, req *http.Request) {
 func main() {
 	var d hotdog
 	var c hotcat
-
-	http.Handle("/dog", d)
+	h1 := func(w http.ResponseWriter, _ *http.Request) {
+		io.WriteString(w, "Hello from a HandleFunc #1!\n")
+	}
+	http.Handle("/dog", d) //defaultservemux
 	http.Handle("/cat", c)
-
+	http.HandleFunc("/", h1)
 	http.ListenAndServe(":8080", nil)
 }
