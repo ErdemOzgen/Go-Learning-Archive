@@ -13,6 +13,8 @@ func (m hotdog) ServeHTTP(w http.ResponseWriter, req *http.Request) {
 		io.WriteString(w, "doggy doggy doggy")
 	case "/cat":
 		io.WriteString(w, "kitty kitty kitty")
+	case "/":
+		io.WriteString(w, "no dog no cat")
 	}
 }
 
