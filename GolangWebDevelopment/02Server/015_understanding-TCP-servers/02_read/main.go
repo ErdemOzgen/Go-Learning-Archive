@@ -34,7 +34,7 @@ func handle(conn net.Conn) {
 	defer conn.Close()
 
 	// we never get here
-	// we have an open stream connection
+	// we have an open stream connection if you close conn we will get there
 	// how does the above reader know when it's done?
 	fmt.Println("Code got here.")
 }
