@@ -28,6 +28,7 @@ func dogPic(w http.ResponseWriter, req *http.Request) {
 		return
 	}
 	defer f.Close()
-
 	io.Copy(w, f)
+	//q, a := io.Copy(w, f)
+	//fmt.Println(q, a)
 }
