@@ -30,7 +30,7 @@ func main() {
 	fv := fun
 	go fv("goroutine-3")
 
-	// wait for goroutines to end
+	// wait for goroutines to end after we will use waitgroups
 	fmt.Println("waiting for goroutines to complete..")
 	time.Sleep(1 * time.Second)
 
