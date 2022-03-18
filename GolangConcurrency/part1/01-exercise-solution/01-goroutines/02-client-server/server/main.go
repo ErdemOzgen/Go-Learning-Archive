@@ -21,6 +21,7 @@ func main() {
 		if err != nil {
 			continue
 		}
+		// using go routine is important in here because we can serve more clients
 		go handleConn(conn)
 	}
 }
