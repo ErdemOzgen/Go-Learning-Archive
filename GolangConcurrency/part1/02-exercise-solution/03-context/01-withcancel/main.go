@@ -21,6 +21,7 @@ func main() {
 			for {
 				select {
 				case <-ctx.Done():
+					//fmt.Println("Is context canceled==>", ctx.Err())
 					return
 				case dst <- n:
 					n++
