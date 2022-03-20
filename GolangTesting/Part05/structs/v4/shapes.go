@@ -9,7 +9,7 @@ type Rectangle struct {
 }
 
 // Area returns the area of the rectangle.
-func (r Rectangle) Area() float64 {
+func (r *Rectangle) Area() float64 {
 	return r.Width * r.Height
 }
 
