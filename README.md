@@ -43,7 +43,7 @@ Doesn't seem enough? Then choose an item from our issues and start helping!!
 4. [Go Optimizations 101](https://go101.org/optimizations/101.html)
 5. [100 Go Mistakes](https://github.com/teivah/100-go-mistakes)
 6. [Go Generics](https://github.com/akutz/go-generics-the-hard-way)
-7. [Black Hat Go](/blackhat)
+7. [Black Hat Go](blackhatgo/README.md)
 
 ` This repo has not finished yet. It needs time and help...`
 
