@@ -13,3 +13,5 @@ Dial Examples:
 * Dial("udp", "[2001:db8::1]:domain")
 * Dial("udp", "[fe80::1%lo0]:53")
 * Dial("tcp", ":80")
+
+### [Bufio Package Golang](https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762)

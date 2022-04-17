@@ -48,3 +48,11 @@ func main() {
 	}
 	fmt.Printf("Wrote %d bytes to stdout\n", s)
 }
+
+/*
+$ go run main.go
+in > hello world!!!
+Read 15 bytes from stdin
+out> hello world!!!
+Wrote 4096 bytes to stdout
+*/

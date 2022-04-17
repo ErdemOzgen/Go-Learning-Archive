@@ -35,7 +35,7 @@ func echo(conn net.Conn) {
 
 func main() {
 	// Bind to TCP port 20080 on all interfaces.
-	listener, err := net.Listen("tcp", ":20080")
+	listener, err := net.Listen("tcp", ":20080") //In Go, you can use net.Listen(network, address string) to first open a TCP listener on a specific port
 	if err != nil {
 		log.Fatalln("Unable to bind to port")
 	}
@@ -51,3 +51,12 @@ func main() {
 		go echo(conn)
 	}
 }
+
+/*
+$ telnet localhost 20080
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+test of the echo server
+test of the echo server
+*/
