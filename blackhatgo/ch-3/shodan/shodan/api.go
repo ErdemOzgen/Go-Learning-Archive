@@ -3,7 +3,6 @@ package shodan
 import (
 	"encoding/json"
 	"fmt"
-	"io"
 	"net/http"
 )
 
@@ -37,10 +36,8 @@ func (s *Client) MyIP() (string, error) {
 	defer res.Body.Close()
 	var myip string
 	// read response body and convert to string
-	bodyBytes, err := io.ReadAll(res.Body)
-	if err != nil {
+	if err := json.NewDecoder(res.Body).Decode(&myip); err != nil {
 		return "", err
 	}
-	myip = string(bodyBytes)
 	return myip, nil
 }
