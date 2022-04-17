@@ -1,7 +1,7 @@
 # BLACKHAT GOLANG
 Code samples for the No Starch Press Black Hat Go
 
-1. Go Fundamentals
+1. [Go Fundamentals](https://github.com/ErdemOzgen/Go-Learning-Archive/tree/main/GolangBasics)
 2. [TCP,Scanners and Proxies](./ch-2)
 3. [Http clients and Remote interaction Tools](./ch-3)
 4. [Http server Routing and Middleware](./ch-4)
