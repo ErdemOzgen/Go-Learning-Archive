@@ -5,7 +5,7 @@ import (
 	"crypto/md5"
 	"strings"
 
-	"Go-Learning-Archive/blackhatgoch-6/smb/smb/encoder"
+	"Go-Learning-Archive/blackhatgo/ch-6/smb/smb/encoder"
 
 	"golang.org/x/crypto/md4"
 )

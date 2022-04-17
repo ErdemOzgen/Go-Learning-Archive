@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"Go-Learning-Archive/blackhatgoch-6/smb/smb"
+	"Go-Learning-Archive/blackhatgo/ch-6/smb/smb"
 )
 
 func main() {

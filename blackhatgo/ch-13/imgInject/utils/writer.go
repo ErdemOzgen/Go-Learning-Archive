@@ -8,7 +8,7 @@ import (
 	"os"
 	"strconv"
 
-	"Go-Learning-Archive/blackhatgoch-13/imgInject/models"
+	"Go-Learning-Archive/blackhatgo/ch-13/imgInject/models"
 )
 
 //WriteData writes new data to offset

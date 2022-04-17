@@ -6,9 +6,9 @@ import (
 	"os"
 	"strconv"
 
-	"Go-Learning-Archive/blackhatgoch-13/imgInject/models"
-	"Go-Learning-Archive/blackhatgoch-13/imgInject/pnglib"
-	"Go-Learning-Archive/blackhatgoch-13/imgInject/utils"
+	"Go-Learning-Archive/blackhatgo/ch-13/imgInject/models"
+	"Go-Learning-Archive/blackhatgo/ch-13/imgInject/pnglib"
+	"Go-Learning-Archive/blackhatgo/ch-13/imgInject/utils"
 
 	"github.com/spf13/pflag"
 )

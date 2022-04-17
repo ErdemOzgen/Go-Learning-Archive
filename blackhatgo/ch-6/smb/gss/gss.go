@@ -4,7 +4,7 @@ import (
 	"encoding/asn1"
 	"log"
 
-	"Go-Learning-Archive/blackhatgoch-6/smb/smb/encoder"
+	"Go-Learning-Archive/blackhatgo/ch-6/smb/smb/encoder"
 )
 
 const SpnegoOid = "1.3.6.1.5.5.2"

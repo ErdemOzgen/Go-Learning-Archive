@@ -13,9 +13,9 @@ import (
 	"net"
 	"runtime/debug"
 
-	"Go-Learning-Archive/blackhatgoch-6/smb/gss"
-	"Go-Learning-Archive/blackhatgoch-6/smb/ntlmssp"
-	"Go-Learning-Archive/blackhatgoch-6/smb/smb/encoder"
+	"Go-Learning-Archive/blackhatgo/ch-6/smb/gss"
+	"Go-Learning-Archive/blackhatgo/ch-6/smb/ntlmssp"
+	"Go-Learning-Archive/blackhatgo/ch-6/smb/smb/encoder"
 )
 
 type Session struct {

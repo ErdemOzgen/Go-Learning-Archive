@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"os"
 
-	"Go-Learning-Archive/blackhatgoch-3/bing-metadata/metadata"
+	"Go-Learning-Archive/blackhatgo/ch-3/bing-metadata/metadata"
 
 	"github.com/PuerkitoBio/goquery"
 )

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"Go-Learning-Archive/blackhatgoch-14/grpcapi"
+	"Go-Learning-Archive/blackhatgo/ch-14/grpcapi"
 
 	"google.golang.org/grpc"
 )

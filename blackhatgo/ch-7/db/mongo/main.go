@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"Go-Learning-Archive/blackhatgoch-7/db/dbminer"
+	"Go-Learning-Archive/blackhatgo/ch-7/db/dbminer"
 
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"

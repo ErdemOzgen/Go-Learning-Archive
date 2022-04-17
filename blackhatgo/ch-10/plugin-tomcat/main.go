@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"Go-Learning-Archive/blackhatgoch-10/plugin-core/scanner"
+	"Go-Learning-Archive/blackhatgo/ch-10/plugin-core/scanner"
 )
 
 var Users = []string{"admin", "manager", "tomcat"}

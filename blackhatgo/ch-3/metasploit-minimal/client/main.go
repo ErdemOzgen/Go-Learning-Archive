@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"Go-Learning-Archive/blackhatgoch-3/metasploit-minimal/rpc"
+	"Go-Learning-Archive/blackhatgo/ch-3/metasploit-minimal/rpc"
 )
 
 func main() {
