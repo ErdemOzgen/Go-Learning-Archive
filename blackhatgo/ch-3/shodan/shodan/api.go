@@ -3,6 +3,7 @@ package shodan
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"net/http"
 )
 
@@ -27,4 +28,19 @@ func (s *Client) APIInfo() (*APIInfo, error) {
 		return nil, err
 	}
 	return &ret, nil
+}
+func (s *Client) MyIP() (string, error) {
+	res, err := http.Get(fmt.Sprintf("%s/tools/myip?key=%s", BaseURL, s.apiKey))
+	if err != nil {
+		return "", err
+	}
+	defer res.Body.Close()
+	var myip string
+	// read response body and convert to string
+	bodyBytes, err := io.ReadAll(res.Body)
+	if err != nil {
+		return "", err
+	}
+	myip = string(bodyBytes)
+	return myip, nil
 }
