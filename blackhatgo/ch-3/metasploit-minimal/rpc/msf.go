@@ -136,3 +136,13 @@ func (msf *Metasploit) SessionList() (map[uint32]SessionListRes, error) {
 	}
 	return res, nil
 }
+
+/*
+
+$ msfconsole
+msf > load msgrpc Pass=s3cr3t ServerHost=10.0.1.6
+[*] MSGRPC Service: 10.0.1.6:55552
+[*] MSGRPC Username: msf
+[*] MSGRPC Password: s3cr3t
+[*] Successfully loaded plugin: msgrpc
+*/
