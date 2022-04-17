@@ -18,3 +18,16 @@ func main() {
 		}(i)
 	}
 }
+
+/*
+$ time ./tcp-scanner-too-fast
+./tcp-scanner-too-fast 0.00s user 0.00s system 90% cpu 0.004 total
+
+================================================================
+main goroutine doesn’t know to wait for
+the connection to take place. Therefore, the code completes
+and exits as soon as the for loop finishes its iterations, which
+may be faster than the network exchange of packets between
+your code and the target ports. You may not get accurate
+results for ports whose packets were still in-flight.
+*/

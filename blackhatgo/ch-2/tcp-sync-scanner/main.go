@@ -25,3 +25,12 @@ func main() {
 	wg.Wait()
 	close(ports)
 }
+
+/*
+You’ve capped the
+channel at 100, meaning it can hold 100 items before the
+sender will block. This is a slight performance increase, as it
+will allow all the workers to start immediately
+
+
+*/
