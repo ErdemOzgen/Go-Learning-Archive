@@ -39,3 +39,28 @@ func main() {
 		go handle(conn)
 	}
 }
+
+/*
+
+Any remote client that connects, perhaps via Telnet, would be
+able to execute arbitrary bash commands—hence the reason
+this is referred to as a gaping security hole. Netcat allows you
+to optionally include this feature during program compilation.
+================================================================
+telnet localhost 20080
+Trying ::1...
+Connected to localhost.
+Escape character is '^]'.
+ls
+blackhatgo
+deneme
+GolangBasics
+GolangCleanCode
+GolangConcurrency
+GolangTesting
+GolangWebDevelopment
+img
+LICENSE
+README.md
+
+*/
