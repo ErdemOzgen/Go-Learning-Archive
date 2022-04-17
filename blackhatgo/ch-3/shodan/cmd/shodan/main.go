@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Go-Learning-Archive/blackhatgo//ch-3/shodan/shodan"
+	"Go-Learning-Archive/blackhatgo/ch-3/shodan/shodan"
 	"fmt"
 	"log"
 	"os"
