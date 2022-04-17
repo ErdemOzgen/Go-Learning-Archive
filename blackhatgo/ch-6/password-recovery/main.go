@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/blackhat-go/bhg/ch-6/smb/ntlmssp"
+	"Go-Learning-Archive/blackhatgoch-6/smb/ntlmssp"
 )
 
 func main() {

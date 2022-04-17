@@ -3,9 +3,10 @@ package main
 import (
 	"os"
 
+	"Go-Learning-Archive/blackhatgoch-7/db/dbminer"
+
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
-	"github.com/blackhat-go/bhg/ch-7/db/dbminer"
 )
 
 type MongoMiner struct {

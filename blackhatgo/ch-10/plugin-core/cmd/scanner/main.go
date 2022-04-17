@@ -7,7 +7,7 @@ import (
 	"os"
 	"plugin"
 
-	"github.com/blackhat-go/bhg/ch-10/plugin-core/scanner"
+	"Go-Learning-Archive/blackhatgoch-10/plugin-core/scanner"
 )
 
 const PluginsDir = "../../plugins/"

@@ -7,8 +7,8 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/blackhat-go/bhg/ch-12/procInjector/utils"
-	"github.com/blackhat-go/bhg/ch-12/procInjector/winsys"
+	"Go-Learning-Archive/blackhatgoch-12/procInjector/utils"
+	"Go-Learning-Archive/blackhatgoch-12/procInjector/winsys"
 )
 
 var opts struct {

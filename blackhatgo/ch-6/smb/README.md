@@ -11,7 +11,7 @@ package main
 import (
 	"log"
 
-	"github.com/blackhat-go/bhg/ch-6/smb/smb"
+	"blackhat/ch-6/smb/smb"
 )
 
 func main() {

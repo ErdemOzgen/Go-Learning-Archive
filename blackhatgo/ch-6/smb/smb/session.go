@@ -13,9 +13,9 @@ import (
 	"net"
 	"runtime/debug"
 
-	"github.com/blackhat-go/bhg/ch-6/smb/gss"
-	"github.com/blackhat-go/bhg/ch-6/smb/ntlmssp"
-	"github.com/blackhat-go/bhg/ch-6/smb/smb/encoder"
+	"Go-Learning-Archive/blackhatgoch-6/smb/gss"
+	"Go-Learning-Archive/blackhatgoch-6/smb/ntlmssp"
+	"Go-Learning-Archive/blackhatgoch-6/smb/smb/encoder"
 )
 
 type Session struct {

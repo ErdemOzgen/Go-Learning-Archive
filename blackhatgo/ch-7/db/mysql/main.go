@@ -6,8 +6,9 @@ import (
 	"log"
 	"os"
 
+	"Go-Learning-Archive/blackhatgoch-7/db/dbminer"
+
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/blackhat-go/bhg/ch-7/db/dbminer"
 )
 
 type MySQLMiner struct {

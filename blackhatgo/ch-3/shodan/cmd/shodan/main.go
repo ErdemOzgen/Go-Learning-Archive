@@ -1,11 +1,10 @@
 package main
 
 import (
+	"Go-Learning-Archive/blackhatgo/ch-3/shodan/shodan"
 	"fmt"
 	"log"
 	"os"
-
-	"github.com/blackhat-go/bhg/ch-3/shodan/shodan"
 )
 
 func main() {

@@ -10,7 +10,8 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/blackhat-go/bhg/ch-3/bing-metadata/metadata"
+	"Go-Learning-Archive/blackhatgoch-3/bing-metadata/metadata"
+
 	"github.com/PuerkitoBio/goquery"
 )
 
@@ -62,13 +63,13 @@ func main() {
 		domain,
 		filetype,
 		filetype)
-	
+
 	search := fmt.Sprintf("http://www.bing.com/search?q=%s", url.QueryEscape(q))
 	res, err := http.Get(search)
 	if err != nil {
 		return
 	}
-	
+
 	doc, err := goquery.NewDocumentFromReader(res.Body)
 	if err != nil {
 		log.Panicln(err)

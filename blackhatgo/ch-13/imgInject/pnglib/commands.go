@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/blackhat-go/bhg/ch-13/imgInject/models"
-	"github.com/blackhat-go/bhg/ch-13/imgInject/utils"
+	"Go-Learning-Archive/blackhatgoch-13/imgInject/models"
+	"Go-Learning-Archive/blackhatgoch-13/imgInject/utils"
 )
 
 const (
