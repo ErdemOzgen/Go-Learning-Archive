@@ -23,7 +23,8 @@ func twiceValue(slice []int) {
 
 // main method
 func main() {
-
+	//https://gobyexample.com/slices
+	//https://go.dev/blog/slices-intro
 	var slice = []int{1, 3, 5, 6}
 	twiceValue(slice)
 
