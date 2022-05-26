@@ -6,12 +6,15 @@ package main
 import (
 	"database/sql"
 	"fmt"
+
 	//  "log"
 	//  "net/http"
 	//  "text/template"
 	//  "errors"
 	_ "github.com/go-sql-driver/mysql"
 )
+
+//https://tutorialedge.net/golang/golang-mysql-tutorial/
 
 type Customer struct {
 	CustomerId   int
